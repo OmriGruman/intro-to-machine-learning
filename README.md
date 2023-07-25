@@ -3,9 +3,11 @@
 A repository for the programming assignments in the "Intro to Machine Learning" course.
 
 The assignments included the following subjects:
-1. [The Perceptron](perceptron/README.md)
-2. [Linear Regression](linear_regression/README.md)
-3. [Logistic Regression](logistic_regression/README.md)
-4. [Support Vector Machine](svm/README.md)
-5. [Multiclass Logistic Regression](multiclass_logistic_regression/README.md)
-6. [Neural Network](neural_network/README.md)
+
+[Perceptron](perceptron/README.md "Perceptron") | [Linear Regression](linear_regression/README.md) | [Logistic Regression](logistic_regression/README.md)
+:---: | :---: | :---:
+[<img src="images/nn.png"  width="300" height="180" />](neural_network/README.md) | [<img src="images/linreg.png"  width="300" height="180" />](linear_regression/README.md) | [<img src="images/logreg.png"  width="300" height="180" />](logistic_regression/README.md)
+
+[Support Vector Machine](svm/README.md) | [Multiclass Logistic Regression](multiclass_logistic_regression/README.md) | [Neural Network](neural_network/README.md)
+:---: | :---: | :---:
+[<img src="images/svm.png"  width="300" height="180" />](svm/README.md "Neural")|[<img src="images/softmax.png"  width="300" height="180" />](multiclass_logistic_regression/README.md)|[<img src="images/nn.png"  width="300" height="180" />](neural_network/README.md)
